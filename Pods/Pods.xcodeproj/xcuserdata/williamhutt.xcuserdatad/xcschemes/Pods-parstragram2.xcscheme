@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7A500874EFDA27A5D5FDBD6F54BA016B"
+               BlueprintIdentifier = "0F71F3A83946BA3345C441CA6E28D317"
                BuildableName = "Pods_parstragram2.framework"
                BlueprintName = "Pods-parstragram2"
                ReferencedContainer = "container:Pods.xcodeproj">
@@ -45,7 +45,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7A500874EFDA27A5D5FDBD6F54BA016B"
+            BlueprintIdentifier = "0F71F3A83946BA3345C441CA6E28D317"
             BuildableName = "Pods_parstragram2.framework"
             BlueprintName = "Pods-parstragram2"
             ReferencedContainer = "container:Pods.xcodeproj">
